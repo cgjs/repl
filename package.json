@@ -1,0 +1,33 @@
+{
+  "name": "@cgjs/repl",
+  "version": "0.0.0",
+  "description": "repl core module for cgjs",
+  "scripts": {
+    "test": "cgjs ./test"
+  },
+  "keywords": [
+    "gjs",
+    "require",
+    "commonjs",
+    "npm",
+    "node",
+    "gtk",
+    "native",
+    "cgjs",
+    "repl"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgjs/repl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cgjs/repl/issues"
+  },
+  "homepage": "https://github.com/cgjs/repl#readme",
+  "dependencies": {
+    "cgjs": "^0.1.3"
+  }
+}
